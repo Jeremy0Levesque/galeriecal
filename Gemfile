@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-git_source(:github) {|galeriecal| "https://github.com/#{galeriecal}" }
+git_source(:github) {|galeriecal| "https://github.com/galeriecal" }
 
 # gem "rails"
 gem 'jekyll-theme-lanyon', '~> 1.1'
